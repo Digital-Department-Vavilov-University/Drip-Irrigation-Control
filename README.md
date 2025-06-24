@@ -142,6 +142,8 @@ unsigned long thingspeakChannelID = ****;
 ## 📑 Примеры отчётов
 
 - Данные в Telegram
+
 ![Telegram bot](image10.png)
 - Данные в ThingSpeak
+
 ![Графики в ThingSpeak](image11.jpg)
